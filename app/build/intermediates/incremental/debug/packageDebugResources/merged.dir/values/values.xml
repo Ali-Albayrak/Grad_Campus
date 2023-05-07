@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#212A54</color>
+    <color name="lavender">#212A54</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">GradCampus</string>
+    <string name="default_web_client_id" translatable="false">342599424508-eesuqssb0pjv2ql7rvjr8bmeasmidf8c.apps.googleusercontent.com</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="gcm_defaultSenderId" translatable="false">342599424508</string>
+    <string name="google_api_key" translatable="false">AIzaSyDAdB34cmgX3Mf_jm14xZpEfijrc8FW-Ec</string>
+    <string name="google_app_id" translatable="false">1:342599424508:android:2cd1f0d55c68cc495c3a79</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDAdB34cmgX3Mf_jm14xZpEfijrc8FW-Ec</string>
+    <string name="google_storage_bucket" translatable="false">gradcampus.appspot.com</string>
+    <string name="grad_campus">Grad Campus</string>
+    <string name="log_out">Log Out</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="name">name</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="password">Password</string>
+    <string name="project_id" translatable="false">gradcampus</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="your_profile">Your Profile</string>
+    <style name="Base.Theme.GradCampus" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.GradCampus" parent="Base.Theme.GradCampus"/>
+    <style name="Theme.GradCampus.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.GradCampus.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.GradCampus.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

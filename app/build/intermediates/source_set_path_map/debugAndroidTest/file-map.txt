@@ -1,0 +1,6 @@
+com.albayrak.gradcampus.test.app-annotation-experimental-1.3.0-0 C:\Users\Zatona\.gradle\caches\transforms-3\2d30e8d8f05f9f12c3bfc8097f5f0927\transformed\annotation-experimental-1.3.0\res
+com.albayrak.gradcampus.test.app-core-1.5.0-1 C:\Users\Zatona\.gradle\caches\transforms-3\cbe7ab90b823de578ef66447cf0df62c\transformed\core-1.5.0\res
+com.albayrak.gradcampus.test.app-androidTest-2 E:\ali\UNI\6\Mobil\odevler\GradCampus\app\build\generated\res\resValues\androidTest\debug
+com.albayrak.gradcampus.test.app-mergeDebugAndroidTestResources-3 E:\ali\UNI\6\Mobil\odevler\GradCampus\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.albayrak.gradcampus.test.app-mergeDebugAndroidTestResources-4 E:\ali\UNI\6\Mobil\odevler\GradCampus\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.albayrak.gradcampus.test.app-merged_res-5 E:\ali\UNI\6\Mobil\odevler\GradCampus\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,0 +1,3 @@
+com.albayrak.gradcampus.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
