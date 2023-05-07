@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342599424508",
+    "project_id": "gradcampus",
+    "storage_bucket": "gradcampus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342599424508:android:2cd1f0d55c68cc495c3a79",
+        "android_client_info": {
+          "package_name": "com.albayrak.gradcampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342599424508-eesuqssb0pjv2ql7rvjr8bmeasmidf8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAdB34cmgX3Mf_jm14xZpEfijrc8FW-Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342599424508-eesuqssb0pjv2ql7rvjr8bmeasmidf8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
